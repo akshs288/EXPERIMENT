@@ -4,4 +4,3 @@ print("This is lec5.py")
 
 print("Using GitHub is fun")
 
-"Now what"
