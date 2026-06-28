@@ -4,3 +4,6 @@ print("This is lec5.py")
 
 print("Using GitHub is fun")
 
+
+a = ("Aksh", "mania")
+print(a)
