@@ -1,0 +1,1 @@
+print("Hi this is lec3.py")
